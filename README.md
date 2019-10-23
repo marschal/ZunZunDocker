@@ -26,7 +26,7 @@ docker run --rm -dit --name ZunZunSite3 -p [PORT]:8080 dborisov/zunzunsite3
 ## Custom build
 To build the container locally, simply check out this repository:
 ```
-git clone XYZ
+git clone https://github.com/marschal/ZunZunDocker.git
 ```
 Then change into the cloned directory and execute the included build script:
 ```
