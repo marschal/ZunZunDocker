@@ -8,7 +8,7 @@ There is an pre-build image availiable from DockerHub.
 
 ### Pull
 ```
-docker pull XYZ
+docker pull marschal/zunzun_docker:latest
 ```
 
 ### Run
