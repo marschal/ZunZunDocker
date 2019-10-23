@@ -14,12 +14,12 @@ docker pull marschal/zunzun_docker:latest
 ### Run
 Random port assigned by docker:
 ```
-docker run --rm -dit --name ZunZunSite3 -p 8080 dborisov/zunzunsite3
+docker run --rm -dit --name ZunZunSite3 -p 8080 marschal/zunzun_docker
 ```
 
 Custom specified port:
 ```
-docker run --rm -dit --name ZunZunSite3 -p [PORT]:8080 dborisov/zunzunsite3
+docker run --rm -dit --name ZunZunSite3 -p [PORT]:8080 marschal/zunzun_docker
 ```
 
 
