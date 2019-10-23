@@ -30,7 +30,7 @@ git clone https://github.com/marschal/ZunZunDocker.git
 ```
 Then change into the cloned directory and execute the included build script:
 ```
-cd XYZ
+cd ZunZunDocker
 ./build.sh
 ```
 
