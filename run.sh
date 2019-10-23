@@ -1,4 +1,4 @@
 #!/bin/bash
 
-docker run --rm -dit --name ZunZunSite3 -p 8000 dborisov/zunzunsite3
+docker run --rm -dit --name ZunZunSite3 -p 8000 marschal/zunzun_docker:latest
 
