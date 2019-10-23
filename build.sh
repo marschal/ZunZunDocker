@@ -1,4 +1,4 @@
 #!/bin/bash
 
-docker build -t dborisov/zunzunsite3 .
+docker build -t marschal/zunzun_docker .
 
